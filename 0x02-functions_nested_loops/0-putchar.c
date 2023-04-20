@@ -2,7 +2,7 @@
 /**
  * main - calls the function _putchar
  *
- * Description: programs that prints gift, followed by a new line
+ * Description: programs that prints _putchar, followed by a new line
  * Return: 0
  */
 
